@@ -1,0 +1,21 @@
+#map {
+  height: 500px;
+  width: 60%;
+  float: left;
+}
+#points {
+  width: 35%;
+  float: right;
+  padding: 10px;
+}
+.point {
+  cursor: pointer;
+  margin: 5px 0;
+}
+.point.with-marker {
+  font-weight: bold;
+  color: blue;
+}
+.point input {
+  margin-right: 10px;
+}
