@@ -1,4 +1,4 @@
-# JS API playground
+# JS MAPS
 
 ## Installation
 
