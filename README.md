@@ -1,18 +1,18 @@
 JS API playground
 
-Installation
+#Installation
 
-Clone this repository
-Run pnpm install
+ 1.Clone this repository
+ 2.Run pnpm install
 
 
 
-Running
+#Running
 
 Run pnpm dev
 
 
 
-Building
+#Building
 
 Run pnpm build
